@@ -1,0 +1,28 @@
+_repo: The-Lives-of-the-Painters-Sculptors--amp--Architects-Volume-1--of-8-_21212
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vasari, Giorgio
+    birthdate: 1511
+    deathdate: 1574
+    gutenberg_agent_id: '9769'
+    url: http://www.gutenberg.org/2009/agents/9769
+    wikipedia: http://en.wikipedia.org/wiki/Giorgio_Vasari
+description: ''
+gutenberg_issued: '2007-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21212'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'N'
+- !lcsh 'Artists -- Italy -- Biography'
+- !lcsh 'Art, Italian'
+title: The Lives of the Painters, Sculptors & Architects, Volume 1 (of 8)
+url: http://www.gutenberg.org/ebooks/21212
