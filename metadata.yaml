@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9769
     wikipedia: http://en.wikipedia.org/wiki/Giorgio_Vasari
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21212#The-Lives-of-the-Painters-Sculptors--amp--Architects-Volume-1--of-8-
 gutenberg_issued: '2007-04-24'
 gutenberg_type: Text
 identifiers:
